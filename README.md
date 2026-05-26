@@ -13,7 +13,6 @@ The project showcases how modern data engineering workflows and LLMs can be leve
 - Portfolio return and performance calculations
 - Market benchmark comparison
 - Integration with Yahoo Finance price data
-- LLM-powered portfolio commentary generation using Google Gemini
 - End-to-end report generation workflow
 
 
