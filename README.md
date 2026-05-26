@@ -16,3 +16,21 @@ The project showcases how modern data engineering workflows and LLMs can be leve
 - LLM-powered portfolio commentary generation using Google Gemini
 - End-to-end report generation workflow
 
+
+```
+Transaction Data
+        │
+        ▼
+Portfolio & Holdings Calculation
+        │
+        ▼
+Market Price Retrieval (Yahoo Finance)
+        │
+        ▼
+Performance Metrics + Benchmark Returns
+        │
+        ▼
+Automated Daily Portfolio Report
+```
+
+
