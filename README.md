@@ -39,3 +39,6 @@ Automated Daily Portfolio Report
 - Yahoo Finance API (yfinance)
 - Matplotlib
 - Jupyter Notebook
+
+> **_[NOTE]_**
+>  While the prototype is demonstrated using Pandas for simplicity and rapid development, the data pipelines can also be implemented using PySpark for large-scale production workloads.
