@@ -20,10 +20,10 @@ The project showcases how modern data engineering workflows and LLMs can be leve
 Transaction Data
         │
         ▼
-Portfolio & Holdings Calculation
+Market Price Retrieval (Yahoo Finance)
         │
         ▼
-Market Price Retrieval (Yahoo Finance)
+Portfolio & Holdings Calculation
         │
         ▼
 Performance Metrics + Benchmark Returns
