@@ -34,3 +34,9 @@ Automated Daily Portfolio Report
 ```
 
 
+## Technologies Used
+- Python
+- Pandas
+- Yahoo Finance API (yfinance)
+- Matplotlib
+- Jupyter Notebook
