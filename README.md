@@ -1,4 +1,4 @@
-#Automated Portfolio Report Generation
+![alt text](https://github.com/Amos-THX/Portfolio-Aggregation/blob/main/portfolio_performance_report.png?raw=true)
 
 ## Overview
 
