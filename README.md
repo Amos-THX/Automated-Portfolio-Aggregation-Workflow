@@ -44,6 +44,16 @@ Automated Daily Portfolio Report
 >  While the prototype is demonstrated using Pandas for simplicity and rapid development, the data pipelines can also be implemented using PySpark for large-scale production workloads.
 
 ### Transaction Data
+The portfolio transaction dataset will be able to support a wide range of real-world brokerage activities, including:
+
+- Purchase / Sale of securities
+- Transfer In / Transfer Out of securities
+- Money In / Money Out transactions
+- FX In / FX Out currency movements
+- Corporate Action (Stock Split / Reverse Split events / Stock Issuance)
+- Dividend payouts
+
+For demonstration purposes, this example portfolio starts with an initial capital of USD 10,000, with sample transactions consisting of the purchase and sale of Alphabet Inc. and Apple Inc. shares.
 
 ### Market Price Retrieval
 
