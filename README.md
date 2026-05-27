@@ -42,3 +42,18 @@ Automated Daily Portfolio Report
 
 > **_[NOTE]_**
 >  While the prototype is demonstrated using Pandas for simplicity and rapid development, the data pipelines can also be implemented using PySpark for large-scale production workloads.
+
+### Transaction Data
+
+### Market Price Retrieval
+
+### Portfolio & Holdings Calculation
+
+### Performance Metrics + Benchmark Returns
+
+### Automated Daily Portfolio Report
+
+
+## Notebook
+[Github Link](https://github.com/Amos-THX/Automated-Portfolio-Aggregation-Workflow/blob/cf0e679da08639bcbcbf5b2b535925f25acac34d/Portfolio_Aggregator.ipynb)
+
